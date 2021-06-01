@@ -7,27 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A1C22732265B7761007D9271 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C22731265B7761007D9271 /* AppDelegate.swift */; };
-		A1C22734265B7761007D9271 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C22733265B7761007D9271 /* SceneDelegate.swift */; };
-		A1C22736265B7761007D9271 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C22735265B7761007D9271 /* ViewController.swift */; };
-		A1C22739265B7761007D9271 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C22737265B7761007D9271 /* Main.storyboard */; };
-		A1C2273B265B7762007D9271 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1C2273A265B7762007D9271 /* Assets.xcassets */; };
-		A1C2273E265B7762007D9271 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C2273C265B7762007D9271 /* LaunchScreen.storyboard */; };
+		A1DDA6AE266641810097BA85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DDA6AD266641810097BA85 /* AppDelegate.swift */; };
+		A1DDA6B0266641810097BA85 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DDA6AF266641810097BA85 /* SceneDelegate.swift */; };
+		A1DDA6B2266641810097BA85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DDA6B1266641810097BA85 /* ViewController.swift */; };
+		A1DDA6B5266641810097BA85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1DDA6B3266641810097BA85 /* Main.storyboard */; };
+		A1DDA6B7266641830097BA85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1DDA6B6266641830097BA85 /* Assets.xcassets */; };
+		A1DDA6BA266641830097BA85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1DDA6B8266641830097BA85 /* LaunchScreen.storyboard */; };
+		A1DDA6C22666430B0097BA85 /* WholeHospitalTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DDA6C12666430B0097BA85 /* WholeHospitalTableViewController.swift */; };
+		A1DDA6C42666476F0097BA85 /* SelectSiGunGuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DDA6C32666476F0097BA85 /* SelectSiGunGuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A1C2272E265B7761007D9271 /* HospitalApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HospitalApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1C22731265B7761007D9271 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		A1C22733265B7761007D9271 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A1C22735265B7761007D9271 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		A1C22738265B7761007D9271 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A1C2273A265B7762007D9271 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A1C2273D265B7762007D9271 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A1C2273F265B7762007D9271 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1DDA6AA266641810097BA85 /* HospitalApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HospitalApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1DDA6AD266641810097BA85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A1DDA6AF266641810097BA85 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		A1DDA6B1266641810097BA85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A1DDA6B4266641810097BA85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A1DDA6B6266641830097BA85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A1DDA6B9266641830097BA85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A1DDA6BB266641830097BA85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1DDA6C12666430B0097BA85 /* WholeHospitalTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WholeHospitalTableViewController.swift; sourceTree = "<group>"; };
+		A1DDA6C32666476F0097BA85 /* SelectSiGunGuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectSiGunGuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A1C2272B265B7761007D9271 /* Frameworks */ = {
+		A1DDA6A7266641810097BA85 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,32 +41,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A1C22725265B7761007D9271 = {
+		A1DDA6A1266641810097BA85 = {
 			isa = PBXGroup;
 			children = (
-				A1C22730265B7761007D9271 /* HospitalApp */,
-				A1C2272F265B7761007D9271 /* Products */,
+				A1DDA6AC266641810097BA85 /* HospitalApp */,
+				A1DDA6AB266641810097BA85 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A1C2272F265B7761007D9271 /* Products */ = {
+		A1DDA6AB266641810097BA85 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A1C2272E265B7761007D9271 /* HospitalApp.app */,
+				A1DDA6AA266641810097BA85 /* HospitalApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A1C22730265B7761007D9271 /* HospitalApp */ = {
+		A1DDA6AC266641810097BA85 /* HospitalApp */ = {
 			isa = PBXGroup;
 			children = (
-				A1C22731265B7761007D9271 /* AppDelegate.swift */,
-				A1C22733265B7761007D9271 /* SceneDelegate.swift */,
-				A1C22735265B7761007D9271 /* ViewController.swift */,
-				A1C22737265B7761007D9271 /* Main.storyboard */,
-				A1C2273A265B7762007D9271 /* Assets.xcassets */,
-				A1C2273C265B7762007D9271 /* LaunchScreen.storyboard */,
-				A1C2273F265B7762007D9271 /* Info.plist */,
+				A1DDA6AD266641810097BA85 /* AppDelegate.swift */,
+				A1DDA6AF266641810097BA85 /* SceneDelegate.swift */,
+				A1DDA6B1266641810097BA85 /* ViewController.swift */,
+				A1DDA6B3266641810097BA85 /* Main.storyboard */,
+				A1DDA6B6266641830097BA85 /* Assets.xcassets */,
+				A1DDA6B8266641830097BA85 /* LaunchScreen.storyboard */,
+				A1DDA6BB266641830097BA85 /* Info.plist */,
+				A1DDA6C12666430B0097BA85 /* WholeHospitalTableViewController.swift */,
+				A1DDA6C32666476F0097BA85 /* SelectSiGunGuViewController.swift */,
 			);
 			path = HospitalApp;
 			sourceTree = "<group>";
@@ -70,13 +76,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A1C2272D265B7761007D9271 /* HospitalApp */ = {
+		A1DDA6A9266641810097BA85 /* HospitalApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1C22742265B7762007D9271 /* Build configuration list for PBXNativeTarget "HospitalApp" */;
+			buildConfigurationList = A1DDA6BE266641830097BA85 /* Build configuration list for PBXNativeTarget "HospitalApp" */;
 			buildPhases = (
-				A1C2272A265B7761007D9271 /* Sources */,
-				A1C2272B265B7761007D9271 /* Frameworks */,
-				A1C2272C265B7761007D9271 /* Resources */,
+				A1DDA6A6266641810097BA85 /* Sources */,
+				A1DDA6A7266641810097BA85 /* Frameworks */,
+				A1DDA6A8266641810097BA85 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +90,25 @@
 			);
 			name = HospitalApp;
 			productName = HospitalApp;
-			productReference = A1C2272E265B7761007D9271 /* HospitalApp.app */;
+			productReference = A1DDA6AA266641810097BA85 /* HospitalApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A1C22726265B7761007D9271 /* Project object */ = {
+		A1DDA6A2266641810097BA85 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = junhyeok.2021smartphone;
 				TargetAttributes = {
-					A1C2272D265B7761007D9271 = {
+					A1DDA6A9266641810097BA85 = {
 						CreatedOnToolsVersion = 11.5;
 					};
 				};
 			};
-			buildConfigurationList = A1C22729265B7761007D9271 /* Build configuration list for PBXProject "HospitalApp" */;
+			buildConfigurationList = A1DDA6A5266641810097BA85 /* Build configuration list for PBXProject "HospitalApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +116,57 @@
 				en,
 				Base,
 			);
-			mainGroup = A1C22725265B7761007D9271;
-			productRefGroup = A1C2272F265B7761007D9271 /* Products */;
+			mainGroup = A1DDA6A1266641810097BA85;
+			productRefGroup = A1DDA6AB266641810097BA85 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A1C2272D265B7761007D9271 /* HospitalApp */,
+				A1DDA6A9266641810097BA85 /* HospitalApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A1C2272C265B7761007D9271 /* Resources */ = {
+		A1DDA6A8266641810097BA85 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1C2273E265B7762007D9271 /* LaunchScreen.storyboard in Resources */,
-				A1C2273B265B7762007D9271 /* Assets.xcassets in Resources */,
-				A1C22739265B7761007D9271 /* Main.storyboard in Resources */,
+				A1DDA6BA266641830097BA85 /* LaunchScreen.storyboard in Resources */,
+				A1DDA6B7266641830097BA85 /* Assets.xcassets in Resources */,
+				A1DDA6B5266641810097BA85 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A1C2272A265B7761007D9271 /* Sources */ = {
+		A1DDA6A6266641810097BA85 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1C22736265B7761007D9271 /* ViewController.swift in Sources */,
-				A1C22732265B7761007D9271 /* AppDelegate.swift in Sources */,
-				A1C22734265B7761007D9271 /* SceneDelegate.swift in Sources */,
+				A1DDA6B2266641810097BA85 /* ViewController.swift in Sources */,
+				A1DDA6AE266641810097BA85 /* AppDelegate.swift in Sources */,
+				A1DDA6B0266641810097BA85 /* SceneDelegate.swift in Sources */,
+				A1DDA6C22666430B0097BA85 /* WholeHospitalTableViewController.swift in Sources */,
+				A1DDA6C42666476F0097BA85 /* SelectSiGunGuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		A1C22737265B7761007D9271 /* Main.storyboard */ = {
+		A1DDA6B3266641810097BA85 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A1C22738265B7761007D9271 /* Base */,
+				A1DDA6B4266641810097BA85 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A1C2273C265B7762007D9271 /* LaunchScreen.storyboard */ = {
+		A1DDA6B8266641830097BA85 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A1C2273D265B7762007D9271 /* Base */,
+				A1DDA6B9266641830097BA85 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A1C22740265B7762007D9271 /* Debug */ = {
+		A1DDA6BC266641830097BA85 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +234,7 @@
 			};
 			name = Debug;
 		};
-		A1C22741265B7762007D9271 /* Release */ = {
+		A1DDA6BD266641830097BA85 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,7 +288,7 @@
 			};
 			name = Release;
 		};
-		A1C22743265B7762007D9271 /* Debug */ = {
+		A1DDA6BF266641830097BA85 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -298,7 +306,7 @@
 			};
 			name = Debug;
 		};
-		A1C22744265B7762007D9271 /* Release */ = {
+		A1DDA6C0266641830097BA85 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -319,25 +327,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1C22729265B7761007D9271 /* Build configuration list for PBXProject "HospitalApp" */ = {
+		A1DDA6A5266641810097BA85 /* Build configuration list for PBXProject "HospitalApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1C22740265B7762007D9271 /* Debug */,
-				A1C22741265B7762007D9271 /* Release */,
+				A1DDA6BC266641830097BA85 /* Debug */,
+				A1DDA6BD266641830097BA85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1C22742265B7762007D9271 /* Build configuration list for PBXNativeTarget "HospitalApp" */ = {
+		A1DDA6BE266641830097BA85 /* Build configuration list for PBXNativeTarget "HospitalApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1C22743265B7762007D9271 /* Debug */,
-				A1C22744265B7762007D9271 /* Release */,
+				A1DDA6BF266641830097BA85 /* Debug */,
+				A1DDA6C0266641830097BA85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A1C22726265B7761007D9271 /* Project object */;
+	rootObject = A1DDA6A2266641810097BA85 /* Project object */;
 }
